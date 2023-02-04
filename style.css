@@ -12,3 +12,12 @@ h1,
 h2 {
   color: magenta;
 }
+
+/* id selector */
+#signup {
+  background-color: blanchedalmond;
+}
+#login {
+  background-color: cadetblue;
+}
+/* ids should only ever be used once on page/document */
