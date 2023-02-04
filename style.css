@@ -59,3 +59,11 @@ h2 + button {
 footer > a {
   color: chocolate;
 }
+
+/* Attribute selector */
+input[type="password"] {
+  color: rgb(61, 1, 61);
+}
+input[type="text"] {
+  color: crimson;
+}
