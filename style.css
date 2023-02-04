@@ -26,3 +26,20 @@ h2 {
 .tag {
   color: green;
 }
+
+/* Descendant selector */
+li a {
+  /* ^ space not a comma */
+  color: teal;
+}
+/* select all <a> inside of an <li> */
+
+/* section span a {
+  color: blueviolet;
+} */
+/* select all <a> inside a <span> inside a <section> */
+
+.post a {
+  color: blue;
+}
+/* select all <a> inside tagged with class of post */
