@@ -1,0 +1,14 @@
+/* universal selector */
+* {
+  color: pink;
+}
+/* single elemnt selector */
+button {
+  font-size: large;
+  color: black;
+}
+/* multiple element selector */
+h1,
+h2 {
+  color: magenta;
+}
