@@ -43,3 +43,19 @@ li a {
   color: blue;
 }
 /* select all <a> inside tagged with class of post */
+
+/* Adjacent Selector */
+input + button {
+  color: red;
+}
+/* select all buttons that are immediatly after an input  */
+
+h2 + button {
+  font-size: small;
+}
+/* select all buttons that come immediatly after an h2 */
+
+/* Direct-Decsendant selector/combinator */
+footer > a {
+  color: chocolate;
+}
