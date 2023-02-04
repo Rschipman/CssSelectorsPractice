@@ -13,7 +13,7 @@ h2 {
   color: magenta;
 }
 
-/* id selector */
+/* id selector # */
 #signup {
   background-color: blanchedalmond;
 }
@@ -21,3 +21,8 @@ h2 {
   background-color: cadetblue;
 }
 /* ids should only ever be used once on page/document */
+
+/* class selector . */
+.tag {
+  color: green;
+}
