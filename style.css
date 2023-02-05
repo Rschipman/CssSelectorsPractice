@@ -84,3 +84,8 @@ footer a:hover {
 .post:nth-of-type(2n) {
   background-color: rgb(204, 247, 233);
 }
+/* Pseaudo Elements */
+h2::first-letter {
+  font-size: larger;
+}
+/*  Pseudo classes use one : pseudo elements use two */
