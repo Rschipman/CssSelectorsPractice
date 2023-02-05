@@ -67,3 +67,9 @@ input[type="password"] {
 input[type="text"] {
   color: crimson;
 }
+
+/* Pseudo Class Selectors */
+button:hover {
+  background-color: darkgreen;
+}
+/* change the background color when a button is hovered over */
