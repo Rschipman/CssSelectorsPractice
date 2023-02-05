@@ -89,3 +89,6 @@ h2::first-letter {
   font-size: larger;
 }
 /*  Pseudo classes use one : pseudo elements use two */
+
+/* Specificity goes #ID then .class then element */
+/* you can calculate specificty at https://specificity.keegan.st/*/
