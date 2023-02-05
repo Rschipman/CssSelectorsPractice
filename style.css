@@ -73,3 +73,11 @@ button:hover {
   background-color: darkgreen;
 }
 /* change the background color when a button is hovered over */
+button:active {
+  background-color: brown;
+}
+/* Change background color when button is active */
+footer a:hover {
+  color: blueviolet;
+  font-weight: bold;
+}
