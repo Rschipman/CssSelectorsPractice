@@ -3,7 +3,8 @@
   color: pink;
 }
 /* single elemnt selector */
-button {
+button,
+label {
   font-size: large;
   color: black;
 }
